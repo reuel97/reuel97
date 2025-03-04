@@ -12,7 +12,7 @@ A passionate Data Analyst with a keen interest in turning data into actionable i
 
 ## Projects
 
-- **[Deloitte-Australia](https://github.com/reuel97/Deloitte-Australia)**: I participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau and Excel and built my data analysis skills.
+- **[Deloitte Australia Data Analytics](https://github.com/reuel97/Deloitte-Australia)**: I participated in Deloitte's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to be part of the team at Deloitte. I was able to analyse data and create a dashboard. I practised using Tableau and Excel and built my data analysis skills.
   
 - **[Quantium-Data-Analytics](https://github.com/reuel97/Quantium-Data-Analytics)**: I participated in Quantium's job simulation on the Forage platform. I worked on a project to conduct analyses on a client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations. I used Python and built my Data Visualisation skills.
   
